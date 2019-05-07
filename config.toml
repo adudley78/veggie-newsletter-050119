@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Veggie News"
+theme = "cayman-hugo-theme"
+
+[params]
+  # Header text, can be markdown
+  project_name = "Veggie Newsletter"
+  project_tagline = "A weekly newsletter of the best vegetarian and vegan recipies. All links are curated by hand from the web. Be an early subscriber and never miss a week."
+
+  # Footer text, can be markdown
+  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
